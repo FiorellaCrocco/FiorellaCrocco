@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 🙋
+🎈 I'm 19 years old
+💻 I'm currently studying IT at Digital House - Certified Tech Developer
+🤓 I’m be Full-Stack Developer, learned on 4Geeks Academy
+🧑‍🤝‍🧑 I'm looking to collaborate with others
 
-<!--
-**FiorellaCrocco/FiorellaCrocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Skills:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5
+CSS3
+Bootstrap
+JavaScript
+ReactJS
