@@ -1,16 +1,61 @@
-### Hi there 👋
+# **👋 Hi, I'm @FiorellaCrocco!**
 
-<!--
-**FiorellaCrocco/FiorellaCrocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ✦ I'm currently studying IT at Digital House - Certified Tech Developer
 
-Here are some ideas to get you started:
+  ✦ I’m be Full-Stack Developer, learned on 4Geeks Academy  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🚀 Technical Skills:
+
+ * HTML5
+ * CSS3
+ * Bootstrap
+ * JavaScript
+ * ReactJS
+ * MySQL & ORM - SQL Alchemy
+ * Python
+ * Flask
+ * GeneXus
+ 
+ 
+ ### 🚀 Soft Skills:
+ 
+ * Leadership
+ * Communication
+ * Proactivity
+ * Organization
+ * Conflict resolution
+ * Teamwork
+ 
+ [More about me](https://fiorellacrocco.github.io/CV/index.html)
+ 
+ ## **👋 Hola, soy @FiorellaCrocco!**
+  
+  ✦ Actualmente estoy estudiando TI en Digital House - Certified Tech Developer
+
+  ✦ Soy Full-Stack Developer, estudié en 4Geeks Academy
+
+ 
+### 🚀 Habilidades Técnicas: 
+
+ * HTML5
+ * CSS3
+ * Bootstrap
+ * JavaScript
+ * ReactJS
+ * MySQL & ORM - SQL Alchemy
+ * Python
+ * Flask
+ * GeneXus
+ 
+ 
+### 🚀 Habilidades Blandas: 
+
+ * Liderazgo
+ * Comunicación
+ * Proactividad
+ * Organización
+ * Resolución de conflictos
+ * Trabajo en equipo
+
+[Más sobre mí](https://fiorellacrocco.github.io/CV/index.html)
