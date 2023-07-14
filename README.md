@@ -12,8 +12,13 @@
  * Bootstrap
  * JavaScript
  * ReactJS
+ * Java
+ * Spring
+ * AWS
+ * Docker
  * MySQL & ORM - SQL Alchemy
  * Python
+ * JWT
  * Flask
  * GeneXus
  
@@ -43,8 +48,13 @@
  * Bootstrap
  * JavaScript
  * ReactJS
+ * Java
+ * Spring
+ * AWS
+ * Docker
  * MySQL & ORM - SQL Alchemy
  * Python
+ * JWT
  * Flask
  * GeneXus
  
