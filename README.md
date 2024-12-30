@@ -41,7 +41,7 @@
  * Conflict resolution
  * Teamwork
  
- [More about me]([https://fiorellacrocco.github.io/CV/index.html](https://www.linkedin.com/in/fiorellacroccograppiolo/))
+ [More about me](https://www.linkedin.com/in/fiorellacroccograppiolo/)
  
  ## **👋 Hola, soy @FiorellaCrocco!**
   
@@ -86,4 +86,4 @@
  * Resolución de conflictos
  * Trabajo en equipo
 
-[Más sobre mí]([https://fiorellacrocco.github.io/CV/index.html](https://www.linkedin.com/in/fiorellacroccograppiolo/))
+[Más sobre mí](https://www.linkedin.com/in/fiorellacroccograppiolo/)
